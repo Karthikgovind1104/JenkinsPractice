@@ -7,7 +7,6 @@ public class JenkinsPrac {
 
 		 System.out.println("truck");
 
-		 System.out.println("cycle");
 
 	}
 
