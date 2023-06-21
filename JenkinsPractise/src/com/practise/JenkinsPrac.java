@@ -6,6 +6,10 @@ public class JenkinsPrac {
 		 System.out.println("bike");
 
 		 System.out.println("truck");
+		
+		 System.out.println("bus");
+		
+		 System.out.println("flight");
 
 
 	}
